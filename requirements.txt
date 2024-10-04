@@ -1,0 +1,9 @@
+streamlit
+python-docx
+pdfplumber
+Faker
+spacy
+langdetect
+Pillow
+pytesseract
+opencv-python
